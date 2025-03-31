@@ -61,7 +61,7 @@ Other potential future revsion could be the use of DBSCAN clustering algorithm t
 #### Outline of project
 
 - [Link to notebook 1](https://github.com/pravinpowale/Berkeley-AI-ML-Capstone-Project-Final/blob/main/BDA%20-%20Notebook%20FINAL%20-%201.ipynb)
-- [Link to notebook 2]()
+- [Link to notebook 2](https://github.com/pravinpowale/Berkeley-AI-ML-Capstone-Project-Final/blob/main/BDA%20-%20Notebook%20FINAL%20-%201.html)
 - [Link to notebook 3]()
 
 
