@@ -1,0 +1,10 @@
+List of deliverables
+
+1. Capstone Project Final Report - "Capstone Project_Final Report.docx"
+2. Python notebook .ipynb version - "BDA - Notebook FINAL - 1.ipynb"
+3. Python notebook .html version - "BDA - Notebook FINAL - 1.html"
+4. Downloaded Bank Ratio data file from kaggle.com - "total_bank_data.csv"
+5. Downloaded Failed Bank data file from FDIC.gov - "failed-banks-data.csv"
+6. Cluster data file generated using K-Means - "label_data_4_clusters.csv"
+7. Prediction data file generated using revised Ridge Classifier - "df_20221231_preds.csv"
+8. README.md
